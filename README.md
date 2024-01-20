@@ -9,4 +9,6 @@
 6. 运行本项目: `python main.py`
 7. 输入你的steamcmd文件夹路径并回车,默认的路径是`C:\Users\Administrator\Desktop\steamcmd`,也就是你把它放在了桌面上。
 
+## License
+本项目基于Apache-2.0协议开源,可以随意修改。
 
